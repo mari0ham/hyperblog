@@ -47,6 +47,13 @@ body
     background: white;
     padding: 1em;
 }
+#adicional
+{
+    background: #F27200;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
 #footer
 {
     background: #37488b;
